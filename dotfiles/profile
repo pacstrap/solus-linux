@@ -1,0 +1,6 @@
+source /usr/share/defaults/etc/profile
+export BROWSER=firefox
+export EDITOR=vim
+export LANG=en_GB.UTF-8
+export TERMINAL=gnome-terminal
+export RANGER_LOAD_DEFAULT_RC=FALSE

@@ -1,0 +1,3 @@
+source /usr/share/defaults/etc/profile
+source /home/<username>/.bash_functions
+xrdb /dev/null

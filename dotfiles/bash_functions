@@ -1,0 +1,6 @@
+#
+# ~/.bash_functions
+#
+
+dfg () { sudo e4defrag "$1"; }
+cbh () { history -c && echo > ~/.bash_history; }

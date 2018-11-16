@@ -1,0 +1,7 @@
+$ ranger --copy-config=all
+
+#
+# ~/.config/ranger/rifle.conf
+#
+
+mime ^video|audio, has gnome-mpv,X, flag f = gnome-mpv -- "$@"
